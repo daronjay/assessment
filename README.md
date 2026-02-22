@@ -1,6 +1,6 @@
 # React Assessment
 
-This assessment app uses React working in Vite with a json data file to simulate a backend.
+This assessment app uses React working in Vite with an Expressjs server and a json data file to simulate a backend.
 The goal of the assessment is to create a simple form to add bank accounts and display them on the home page.
 
 ## Getting Started
